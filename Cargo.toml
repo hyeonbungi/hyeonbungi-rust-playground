@@ -1,9 +1,8 @@
 [package]
 name = "hyeonbungi_rust_playground"
 description = "This is hyeonbungi's personal playground crate for learning the Rust programming language."
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license = "MIT OR Apache-2.0"
 
 [dependencies]
-rand = "0.8.5"
